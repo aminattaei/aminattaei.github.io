@@ -57,13 +57,10 @@ const profile = {
     { Name: "Django Rest Framework" },
     { Name: "PostgreSQL" },
     { Name: "Git & GitHub" },
-    { Name: "Docker (learning)" },
-    { Name: "Redis & Celery (learning)" },
+    { Name: "Docker" },
+    { Name: "Redis & Celery" },
     { Name: "HTML & CSS" },
-    { Name: "JavaScript (basic)" },
-    { Name: "ESP32" },
-    { Name: "MicroPython" },
-    { Name: "WordPress" },
+    { Name: "JavaScript" },
   ],
 
   Educations: [
